@@ -1,8 +1,3 @@
-/** 
-This is a snake game I made with Vanilla Javascript.
-Follow me on twitter @fariatondo
-**/
-
 let dom_replay = document.querySelector("#replay");
 let dom_score = document.querySelector("#score");
 let dom_canvas = document.createElement("canvas");
